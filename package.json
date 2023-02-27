@@ -13,13 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuanshuo-wu/AirBnB.git"
+    "url": "git+https://github.com/DannyWu2018/maomao15.git"
+    
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuanshuo-wu/AirBnB/issues"
+    "url": "https://github.com/DannyWu2018/maomao15/issues"
   },
-  "homepage": "https://github.com/yuanshuo-wu/AirBnB#readme"
+  "homepage": "https://github.com/DannyWu2018/maomao15#readme"
 }
